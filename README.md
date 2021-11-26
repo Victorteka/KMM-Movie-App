@@ -27,4 +27,4 @@
 ## Android screenshots
 |Popular movies Screen|
 |:----:|
-|<img src="screenshots/home.jpg" width=300/>|
+|<img src="screenshots/home.png" width=300/>|
