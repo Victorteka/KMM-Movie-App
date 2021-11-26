@@ -20,5 +20,11 @@
 ## Todos
 - [ ] Implement caching using SQLDelight
 - [ ] Write UTs and UI tests
+- [ ] Add paging
 - [ ] Implement IOS version using SwiftUI  (will be done when I get a MacBook)
 - [ ] Publish on Playstore
+
+## Android screenshots
+|Popular movies Screen|
+|:----:|
+|<img src="screenshots/home.jpg" width=300/>|
