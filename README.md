@@ -18,7 +18,7 @@
 ![alt text](./kmm.png)
 
 ## Todos
-- [] Implement caching using SQLDelight
-- [] Write UTs and UI tests
-- [] Implement IOS version using SwiftUI  (will be done when I get a MacBook)
-- [] Publish on Playstore
+- [ ] Implement caching using SQLDelight
+- [ ] Write UTs and UI tests
+- [ ] Implement IOS version using SwiftUI  (will be done when I get a MacBook)
+- [ ] Publish on Playstore
